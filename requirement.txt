@@ -6,3 +6,5 @@ Vibrant
 
 Dark Mode
 Video Calls
+
+Voice Trap
