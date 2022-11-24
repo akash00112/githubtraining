@@ -8,3 +8,7 @@ Dark Mode
 Video Calls
 
 Voice Trap
+
+Payment Method
+Send Money
+Received Money
